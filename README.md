@@ -8,7 +8,5 @@ Package Manage: https://jitpack.io/#enzan-koubou/enNote_String_Resources
 Add below string to Android project dependacy  
 
 `
-dependencies {
-  implementation 'com.github.enzan-koubou:enNote_String_Resources:Tag'
-}
+implementation 'com.github.enzan-koubou:enNote_String_Resources:Tag'
 `
