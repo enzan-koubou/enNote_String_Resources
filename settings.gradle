@@ -1,0 +1,3 @@
+include ':ennote-language'
+include ':app'
+rootProject.name = "enNote_language_resources"
